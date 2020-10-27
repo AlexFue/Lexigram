@@ -53,6 +53,7 @@ public class ComposeFragment extends Fragment {
 
     public ComposeFragment() {
         // Required empty public constructor
+
     }
 
     @Override
