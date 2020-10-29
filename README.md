@@ -34,13 +34,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-If you added another xml and Java class for a profile, your project might not run when you are doing part 2, even if you delete what you added.
+If you added another xml and Java class for a profile, your project might not run when you are doing part 2, even if you delete what you added. When trying to push to this repository, remember that it was created in another folder so you may have to git init before trying to commit/push. 
 
 ## Open-source libraries used
 
